@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "452892102276",
+    "firebase_url": "https://dormserviceapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dormserviceapp",
+    "storage_bucket": "dormserviceapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452892102276:android:e8b9d1b3c5b0b46b4ffcd1",
+        "android_client_info": {
+          "package_name": "com.example.dormservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDldajK3xMCPRUbyF12kBBG_ECRU2T3yaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
